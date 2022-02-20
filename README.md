@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Douglas!
+# Hi, I'm Douglas Iuri!
 
 <!-- <img align="left"  src="https://github-readme-stats.vercel.app/api?username=douglasimc&show_icons=true&exclude_repo=grails-tasks&theme=swift" /> -->
 
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ![Cent OS](https://img.shields.io/badge/centos-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
-![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 
