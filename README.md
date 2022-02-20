@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 # My name is Douglas, I'm Cabral!
 
-<!-- <img align="left"  src="https://github-readme-stats.vercel.app/api?username=douglasimc&show_icons=true&exclude_repo=grails-tasks&theme=swift" /> -->
+<!-- <img align="left"  src="https://github-readme-stats.vercel.app/api?username=douglasimcabral&show_icons=true&exclude_repo=grails-tasks&theme=swift" /> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasimc&exclude_repo=grails-tasks&layout=compact&langs_count=6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasimcabral&exclude_repo=grails-tasks&layout=compact&langs_count=6"/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
