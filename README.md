@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasimcabral&exclude_repo=grails-tasks&layout=compact&langs_count=6"/>
 
+<!-- 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,5 +36,5 @@ Here are some ideas to get you started:
 
 ![Google Drive](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
+-->
 
